@@ -38,4 +38,5 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 
 In summary, the results shows that that the bias is equal between Vine reviews and non-Vine reviews. The percentage of 5 stars reviews for Vine is 52% similar to the non-Vine reviews. But if we compare the total number of non-Vine reviews to the vine reviews, we can see that the numbers are significantly different. 39869 reviews were out of the program. This will lead us to conduct future analysis to help understand why majority of the reviewers were not vine. We can use split to compare the Vine 5 stars reviews to similar portion or non_vine 5 stars reviews. 
 
+<img width="616" alt="non-vine review" src="https://user-images.githubusercontent.com/91625564/152715650-4c17a6a5-3ce3-4681-9b8b-50abd16fb1f0.png">
 
