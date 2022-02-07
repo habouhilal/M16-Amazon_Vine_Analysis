@@ -11,14 +11,28 @@ We used PySpark to perform the ETL process to extract the dataset, transform the
 ## Results: 
 ### The total number of reviews
 
+<img width="616" alt="total reviews" src="https://user-images.githubusercontent.com/91625564/152715334-ee5a00ce-ad8b-4b7b-a9d7-5507c2f45077.png">
+
 
 ### Total 5 stars Vine reviews 
 
+<img width="783" alt="vine 5 stars reviews" src="https://user-images.githubusercontent.com/91625564/152715381-d39014f5-6bc4-4ab9-b4b6-323e10bba3f2.png">
+
+
 ### Total 5 stars non-Vine
+
+<img width="883" alt="non-vine reviews" src="https://user-images.githubusercontent.com/91625564/152715513-3cb56957-d564-43e2-8a6d-4948d967ce61.png">
+
 
 ### Percentage of 5 stars Vine reviews  
 
+<img width="883" alt="vine 5 stars reviews percentage" src="https://user-images.githubusercontent.com/91625564/152715390-cb50279c-0506-45a5-ad1f-35d8f0b2926e.png">
+
+
 ### Percentage of 5 stars non-Vine reviews 
+
+<img width="883" alt="non-vine 5 stars review percentage" src="https://user-images.githubusercontent.com/91625564/152715470-9cf41191-aee9-4ae8-acdf-6fa5e9d4200b.png">
+
 
 ## Summary: 
 
